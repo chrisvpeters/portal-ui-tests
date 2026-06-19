@@ -1,0 +1,1118 @@
+[
+  {
+    "name": "Earth Resource Mine",
+    "group": "Earth Resources v1"
+  },
+  {
+    "name": "Earth Resource Mineral Occurrence",
+    "group": "Earth Resources v1"
+  },
+  {
+    "name": "Earth Resource Mining Activity",
+    "group": "Earth Resources v1"
+  },
+  {
+    "name": "Mineral Occurrence View",
+    "group": "Earth Resources v1"
+  },
+  {
+    "name": "Australian Mineral Tenements",
+    "group": "Tenements"
+  },
+  {
+    "name": "Queensland Mineral Tenements",
+    "group": "Tenements"
+  },
+  {
+    "name": "Mine View",
+    "group": "Earth Resources Lite v2"
+  },
+  {
+    "name": "Mineral Occurrence",
+    "group": "Earth Resources Lite v2"
+  },
+  {
+    "name": "Commodity Resource",
+    "group": "Earth Resources Lite v2"
+  },
+  {
+    "name": "Magnetotelluric Survey Sites",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "GA: Northern Australia AusLAMP Stations",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "AuScope MT: W/NW Tas Broadband",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "AuScope MT: AusLAMP Surveys",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "AuScope MT: Uni of Adelaide Legacy",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "3D Geoscience Models",
+    "group": "Models"
+  },
+  {
+    "name": "National Virtual Core Library V-2.0",
+    "group": "Boreholes"
+  },
+  {
+    "name": "All Boreholes",
+    "group": "Boreholes"
+  },
+  {
+    "name": "MSCL Data",
+    "group": "Boreholes"
+  },
+  {
+    "name": "GSSA GeoSciML v4.1 Boreholes",
+    "group": "Boreholes"
+  },
+  {
+    "name": "Seismographs in Schools Network",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "SKIPPY",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "KIMBA97: Kimberley Region in 1997",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "KIMBA98: Kimberley Region in 1998",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "WACRATON: Western Australia",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "SEAL: South East Australia Linkage",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "SEAL2: South East Australia Linkage",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "SEAL3: South East Australia Linkage",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "CAPRAL: Northwest Australia",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "SOC: Southern Craton",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "GAWLER",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "BILBY: Australian Cratonic Lithosphere",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "CURNAMONA: Seismic structure of South Australia",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "MINQ: Mount Isa Northern Queensland",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "EAL1: Eastern Australia Linkage",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "EAL2: Eastern Australia Linkage",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "EAL3: Eastern Australia Linkage",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "BASS: Bass strait from 2011 to 2013",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "SQEAL: South Queensland Eastern Australia Linkage",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "AQ3 SW Queensland and NW New South Wales",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "AQT: Western Queensland",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "Banda Arc: Transitions in the Banda Arc-Australia continental collision",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "ASR",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "Marla Line",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "AuScope Passive Seismic Sites",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "GA Onshore Active Seismic Survey Lines",
+    "group": "Passive Seismic"
+  },
+  {
+    "name": "Geophysical Surveys - All",
+    "group": "Geophysical Survey Datasets (GADDS)"
+  },
+  {
+    "name": "Geophysical Surveys - Gravity",
+    "group": "Geophysical Survey Datasets (GADDS)"
+  },
+  {
+    "name": "Geophysical Surveys - Radiometric",
+    "group": "Geophysical Survey Datasets (GADDS)"
+  },
+  {
+    "name": "Geophysical Surveys - Magnetic",
+    "group": "Geophysical Survey Datasets (GADDS)"
+  },
+  {
+    "name": "Geophysical Surveys - Elevation",
+    "group": "Geophysical Survey Datasets (GADDS)"
+  },
+  {
+    "name": "Bouguer Gravity Anomaly 2016",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Complete Bouguer Gravity Anomaly 2016",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Isostatic Residual Gravity Anomaly 2016",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 filtered pct K",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 filtered ppm Th",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 filtered ppm U",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 filtered terrestrial dose",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 ratio Th over K",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 ratio U over K",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 ratio U over Th",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 ratio U squared over Th",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 unfiltered pct K",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 unfiltered ppm Th",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 unfiltered ppm U",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "Radmap v4 2019 unfiltered terrestrial dose",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "TMI Grid of Aust, 2019 - 7th ed. 40 m cell",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "TMI Grid of Aust, 2019 - 7th ed. 80 m cell",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "TMI Grid of Aust. 2019 - VRTP 7th ed.",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "TMI Grid of Aust. 2019 - 1VD",
+    "group": "Geophysics - National Geophysical Compilation"
+  },
+  {
+    "name": "AlOH group composition",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "Ferrous iron index",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "Opaque index",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "Ferric oxide content",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "FeOH group content",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "Ferric oxide composition",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "Kaolin group index",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "TIR Quartz index",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "MgOH group content",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "Green vegetation content",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "Ferrous iron content in MgOH/carbonate",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "MgOH group composition",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "AlOH group content",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "TIR Silica index",
+    "group": "ASTER Mineral Maps"
+  },
+  {
+    "name": "AUS5 - Remanent Anomalies",
+    "group": "Magnetics"
+  },
+  {
+    "name": "AUS5 - AutoSearch Anomalies",
+    "group": "Magnetics"
+  },
+  {
+    "name": "AUS5 - Total Magnetic Intensity",
+    "group": "Magnetics"
+  },
+  {
+    "name": "EMAG2 - Remanent Anomalies",
+    "group": "Magnetics"
+  },
+  {
+    "name": "EMAG2 - Total Magnetic Intensity",
+    "group": "Magnetics"
+  },
+  {
+    "name": "Vic Geological Unit 250K",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Geological Unit Contact 250K",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Geological Unit Contact 50K",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Geological Unit 250K Age",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Shear Displacement Structure 250K",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Geological Unit 250K Lithology",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Geological Unit 50K Lithology",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Geological Unit 50K",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Shear Displacement Structure 50K",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Vic Geological Unit 50K Age",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "L180 Mt Isa Deep Crustal Seismic Survey Qld 2006 Stacked And Migrated Data And Images For Lines 06Ga M1 To 06Ga M6",
+    "group": "Reports - Geoscience Australia"
+  },
+  {
+    "name": "Are There Any Sandstone Hosted Uranium Systems In The Eromanga Basin",
+    "group": "Reports - Geoscience Australia"
+  },
+  {
+    "name": "L164 Curnamona Seismic Survey Sa 2003 2004 Stacked And Migrated Seismic Data And Images For Lines 03Ga Cu1",
+    "group": "Reports - Geoscience Australia"
+  },
+  {
+    "name": "Lawn Hill Platform And Leichhardt River Fault Trough Measured Stratigraphic Section Online Gis",
+    "group": "Reports - Geoscience Australia"
+  },
+  {
+    "name": "Predictive Mineral Discovery In The Eastern Yilgarn Craton An Example Of District Scale Targeting Of An Orogenic Gold Mineral System",
+    "group": "Reports - Geoscience Australia"
+  },
+  {
+    "name": "Final Report 3D Geological Models Of The Eastern Yilgarn Craton Project Pmd Crc Y2 September 2001 December 2004",
+    "group": "Reports - Geoscience Australia"
+  },
+  {
+    "name": "Cat 1 Exploration Licences Of Tasmania",
+    "group": "Tenements"
+  },
+  {
+    "name": "Proclaimed Landslip Areas Of Tasmania",
+    "group": "Boundaries"
+  },
+  {
+    "name": "Airborne Geophysical Surveys Of Tasmania",
+    "group": "Geophysics"
+  },
+  {
+    "name": "Landslide Points Of Tasmania",
+    "group": "Boundaries"
+  },
+  {
+    "name": "Mineral Occurrence Points Of Tasmania",
+    "group": "Earth Resources"
+  },
+  {
+    "name": "Landslide Lines Of Tasmania",
+    "group": "Boundaries"
+  },
+  {
+    "name": "Landslide Damage Polygons Of Tasmania",
+    "group": "Boundaries"
+  },
+  {
+    "name": "Cat 4 Exploration Licences Of Tasmania",
+    "group": "Tenements"
+  },
+  {
+    "name": "Cat 6 Exploration Licences Of Tasmania",
+    "group": "Tenements"
+  },
+  {
+    "name": "Mining Lease Polygons Of Tasmania",
+    "group": "Tenements"
+  },
+  {
+    "name": "Cat 2 Exploration Licences Of Tasmania",
+    "group": "Tenements"
+  },
+  {
+    "name": "Gravity Measurements Of Tasmania",
+    "group": "Geophysics"
+  },
+  {
+    "name": "Cat 5 Exploration Licences Of Tasmania",
+    "group": "Tenements"
+  },
+  {
+    "name": "Landslide Damage Points Of Tasmania",
+    "group": "Boundaries"
+  },
+  {
+    "name": "Gravity Base Stations Of Tasmania",
+    "group": "Geophysics"
+  },
+  {
+    "name": "Strategic Prospectivity Zones of Tasmania",
+    "group": "Tenements"
+  },
+  {
+    "name": "Landslide Polygons Of Tasmania",
+    "group": "Boundaries"
+  },
+  {
+    "name": "Borehole Traces Of Tasmania",
+    "group": "Boreholes"
+  },
+  {
+    "name": "NSW Surface Geochemistry Assay",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "NSW Geological Field Observations",
+    "group": "Field Observations"
+  },
+  {
+    "name": "NSW Drilling Geochemistry Assay",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "NSW Isotope Geochemistry and Geochronology Samples",
+    "group": "Geochronology"
+  },
+  {
+    "name": "NSW Hydrogeochemistry Samples",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "NSW Drillhole Geochemistry - Whole Rock",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "NSW All Drillholes",
+    "group": "Boreholes"
+  },
+  {
+    "name": "NSW Hylogger Drillholes",
+    "group": "Boreholes"
+  },
+  {
+    "name": "NSW Mineral Occurrence Operating Mine",
+    "group": "Earth Resources"
+  },
+  {
+    "name": "NSW Minerals Deposit Class",
+    "group": "Earth Resources"
+  },
+  {
+    "name": "NSW Titles - Mineral Allocation Areas",
+    "group": "Tenements"
+  },
+  {
+    "name": "NSW Titles - Applications",
+    "group": "Tenements"
+  },
+  {
+    "name": "NSW Titles - Ancillary Mining Areas",
+    "group": "Tenements"
+  },
+  {
+    "name": "NSW Titles - Titles Granted",
+    "group": "Tenements"
+  },
+  {
+    "name": "NSW Titles - Historic Titles",
+    "group": "Tenements"
+  },
+  {
+    "name": "NSW Ternary Radioelement K/Th/U 25m",
+    "group": "Geophysics"
+  },
+  {
+    "name": "NSW Isostatic Bouger Gravity",
+    "group": "Geophysics"
+  },
+  {
+    "name": "NSW Isostatic Gravity Over Tmi Rtp Tilt",
+    "group": "Geophysics"
+  },
+  {
+    "name": "Geological Provinces",
+    "group": "Boundaries"
+  },
+  {
+    "name": "NSW Geology - Provinces and Basins",
+    "group": "Boundaries"
+  },
+  {
+    "name": "CRN Australia: River Basins",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "CRN Australia: Sample Sites",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Archaeology Radiocarbon",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Archaeology OSL",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Archaeology TL",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Sed Archives Aeolian OSL",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Sed Archives Aeolian TL",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Sed Archives Fluvial OSL",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Sed Archives Fluvial TL",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Sed Archives Lacustrine OSL",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "Sahul Sed Archives Lacustrine TL",
+    "group": "Geochronology - OCTOPUS (Cosmogenic DB)"
+  },
+  {
+    "name": "CSIRO Samples",
+    "group": "IGSN"
+  },
+  {
+    "name": "GA Samples",
+    "group": "IGSN"
+  },
+  {
+    "name": "ARDC Samples",
+    "group": "IGSN"
+  },
+  {
+    "name": "Project A1 Presentations",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project C1 Final Report - Curnamona",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project C2 Final Report - Curnamona",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project C6 Final Report - Broken Hill",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project C7 Final Report - Curnamona",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project I1 Appendix 1 - Mt Isa",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project I1 Appendix 5 - Mt Isa",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project I2 Presentations and Posters",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project I5 Final Report - Batten Trough",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project I6 Final Report - Batten Trough",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project I9 Final Report - Mt Isa",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project T1 Final Report - Western Victoria",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project T3 Final Report - Tasmania",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project T6+7 Final Report - Victoria",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project T11 Final Report - Lachlan & Cobar",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project Y2 Appendix 2 - Yilgarn",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "Project Y4 Report - Yilgarn",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "CRC LEME Regolith Maps",
+    "group": "Reports - PMD*CRC and LEME CRC"
+  },
+  {
+    "name": "GRACE Mascons",
+    "group": "Gravity - GRACE"
+  },
+  {
+    "name": "2.5m Interpgeop 15 4326",
+    "group": "Modelling - Loop3D"
+  },
+  {
+    "name": "2m Linear Structures",
+    "group": "Modelling - Loop3D"
+  },
+  {
+    "name": "500k Faults 4326",
+    "group": "Modelling - Loop3D"
+  },
+  {
+    "name": "500k Geol 28350",
+    "group": "Modelling - Loop3D"
+  },
+  {
+    "name": "500k Geol 4326",
+    "group": "Modelling - Loop3D"
+  },
+  {
+    "name": "Bulk Density Point 4326",
+    "group": "Modelling - Loop3D"
+  },
+  {
+    "name": "Waroxi WA 4326 Bed",
+    "group": "Modelling - Loop3D"
+  },
+  {
+    "name": "GA All Geochronology",
+    "group": "Geochronology"
+  },
+  {
+    "name": "GA Igneous Crystallisation Age Data",
+    "group": "Geochronology"
+  },
+  {
+    "name": "GA Igneous Crystallisation Age Grid",
+    "group": "Geochronology"
+  },
+  {
+    "name": "GA Deform/Metamorph/Alter Age Data",
+    "group": "Geochronology"
+  },
+  {
+    "name": "GA Deforma/Metamorph/Alter Age Grid",
+    "group": "Geochronology"
+  },
+  {
+    "name": "GA Sedimentary Processes Age Data",
+    "group": "Geochronology"
+  },
+  {
+    "name": "GA Maximum Depositional Age Grid",
+    "group": "Geochronology"
+  },
+  {
+    "name": "GA Sm-Nd Isotope Data",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Sm-Nd Model Age (T2DM) Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Sm-Nd Epsilon Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Sm-Nd Residence Time Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Lu-Hf Isotopes: Summary Data",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Lu-Hf Model Age (T2DM) Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Lu-Hf Epsilon-Hf Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Lu-Hf Residence Time Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Lu-Hf Isotopes: Full Analytical Data",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Pb-Pb Isotope Data",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Pb-Pb Mu Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Pb-Pb Kappa Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Pb-Pb Omega Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Pb-Pb Model Age Grid",
+    "group": "Isotopes"
+  },
+  {
+    "name": "GA Rb-Sr Isotope Data",
+    "group": "Isotopes"
+  },
+  {
+    "name": "World Boundaries",
+    "group": "Boundaries"
+  },
+  {
+    "name": "Australian Coastline",
+    "group": "Boundaries"
+  },
+  {
+    "name": "Magnetotelluric Site Locations",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Curnamona and Delamerian 10m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Curnamona and Delamerian 2630m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Curnamona and Delamerian 48430m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Curnamona and Delamerian 77680m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Curnamona and Delamerian 125180m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Western Queensland AusLAMP 1280m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Western Queensland AusLAMP 2655m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Western Queensland AusLAMP 68610m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Western Queensland AusLAMP 182460m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "Western Queensland AusLAMP 298760m",
+    "group": "Magnetotellurics"
+  },
+  {
+    "name": "EarthBank U/Pb",
+    "group": "Geochronology"
+  },
+  {
+    "name": "EarthBank U-Th/He",
+    "group": "Geochronology"
+  },
+  {
+    "name": "EarthBank Fission Track",
+    "group": "Geochronology"
+  },
+  {
+    "name": "EarthBank Geochemistry",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "Map of Indigenous Australia",
+    "group": "Indigenous Data"
+  },
+  {
+    "name": "Depth of Regolith - Soil and Landscape Grid National Soil Attribute Maps",
+    "group": "Regolith"
+  },
+  {
+    "name": "WA 1:500 000 State Cenozoic Geology",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "WA 1:2 500 000 State Cenozoic Geology",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Regolith of WA - 1300 Metre Grid",
+    "group": "Regolith"
+  },
+  {
+    "name": "Regolith of WA - 500 Metre Grid",
+    "group": "Regolith"
+  },
+  {
+    "name": "WA 1:500 000 State Interpreted Bedrock Geology",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "WA 1:2 500 000 State Interpreted Bedrock Geology",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "WA 1:2 500 000 State Interpreted Bedrock Geology Structural Lines",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "WA 1:500 000 State Linear Structures Layer",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "WA 1:2 500 000 State Interpreted Dyke Suites",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "WA Linear Structures 1:100 000",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "WA Clay Sample Analyses",
+    "group": "Soil Chemistry"
+  },
+  {
+    "name": "WA Sand and Gravel Sample Analyses",
+    "group": "Soil Chemistry"
+  },
+  {
+    "name": "WA Lime Sample Analyses",
+    "group": "Soil Chemistry"
+  },
+  {
+    "name": "GSWA Geochemistry",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "GSWA Geochronology",
+    "group": "Geochronology"
+  },
+  {
+    "name": "ALIRT-001 Level 1 Decimated Data",
+    "group": "Distributed Acoustic Sensing"
+  },
+  {
+    "name": "Cloncurry METAL: Integrated Dataset",
+    "group": "Integrated Geoscience Dataset"
+  },
+  {
+    "name": "Calperum Observatory Heat Needle Monitoring Program",
+    "group": "Temperature"
+  },
+  {
+    "name": "Gippsland and Murray Basin Fiber Optic DTS Study",
+    "group": "Temperature"
+  },
+  {
+    "name": "UNSW Raw Groundwater Levels",
+    "group": "Groundwater"
+  },
+  {
+    "name": "Queensland Gravity Image",
+    "group": "Geophysics"
+  },
+  {
+    "name": "Queensland Magnetic Image",
+    "group": "Magnetics"
+  },
+  {
+    "name": "Queensland Radiometric Image",
+    "group": "Geophysics"
+  },
+  {
+    "name": "Qld State Surface Geology",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Qld State Folds",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Qld State Faults",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "Qld State Geological Boundaries",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "SA Surface Geology 7M",
+    "group": "Geological Maps"
+  },
+  {
+    "name": "SA Geochronology",
+    "group": "Geochronology"
+  },
+  {
+    "name": "SA Field Observation Sites",
+    "group": "Field Observations"
+  },
+  {
+    "name": "SA Max Downhole Geochem Zinc",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Uranium",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Copper",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Lithium",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Gold",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Silver",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Cobalt",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Lead",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Iron",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Max Downhole Geochem Nickel",
+    "group": "Geochemistry"
+  },
+  {
+    "name": "SA Gravity",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Gravity First Vertical Derivative",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Gravity 1000m Upward Continuation Res",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Total Magnetic Intensity",
+    "group": "Magnetics"
+  },
+  {
+    "name": "SA Total Magnetic Intensity VRTP",
+    "group": "Magnetics"
+  },
+  {
+    "name": "SA Total Magnetic Intensity VRTP 1VD",
+    "group": "Magnetics"
+  },
+  {
+    "name": "SA Radiometry Ternary KThU RGB",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Radiometry Ternary LNS KThU RGB",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Radiometry K",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Radiometry Th",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Radiometry U",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Radiometry U2Th",
+    "group": "Geophysics"
+  },
+  {
+    "name": "SA Radiometry Total Count",
+    "group": "Geophysics"
+  },
+  {
+    "name": "Quartz Mineral Map",
+    "group": "Australian Mineral Maps"
+  },
+  {
+    "name": "Olivine Mineral Map",
+    "group": "Australian Mineral Maps"
+  },
+  {
+    "name": "Mine Waste - Geochemistry",
+    "group": "Geochemistry"
+  }
+]
